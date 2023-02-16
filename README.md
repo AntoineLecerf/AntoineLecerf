@@ -1,5 +1,5 @@
 👋 Hi, I’m @AntoineLecerf
-- 👀 I’m interested in web development, mostly Front End, UX/UI, digital experience and.. generative art ! 
+- 👀 I’m interested in web development, mostly Front End, UX/UI, data, digital experience and.. generative art ! 
 - 🌱 I’m currently learning to create solid and maintenable, beautiful web pages.
 - 👨‍💻 All of my projects are available at https://github.com/AntoineLecerf/
 - 📫 How to reach and learn more about me : www.linkedin.com/in/antoinelecerfdevfrontend
